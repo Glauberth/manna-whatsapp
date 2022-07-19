@@ -18,12 +18,6 @@ Sentry.init({ dsn: process.env.SENTRY_DSN });
 
 const app = express();
 
-app.use((Request, Response) => {
-  Request.header("Access-Control-Allow-Origin", "*");
-  Request.header("Access-Control-Allow-Methods", "GET, POST, PUT, DELETE");
-  app.use(cors());
-});
-
 app.use(
   cors({
     credentials: true,
