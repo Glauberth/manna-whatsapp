@@ -1,0 +1,7 @@
+2022/07/18-18:42:27.203 fa0 Creating DB C:\Users\Administrator\Desktop\whaticket-community\backend\.wwebjs_auth\session-bd_2\Default\Local Storage\leveldb since it was missing.
+2022/07/18-18:42:27.204 fa0 Reusing MANIFEST C:\Users\Administrator\Desktop\whaticket-community\backend\.wwebjs_auth\session-bd_2\Default\Local Storage\leveldb/MANIFEST-000001
+2022/07/18-18:42:27.204 fa0 Recovering log #8
+2022/07/18-18:42:27.205 fa0 Reusing old log C:\Users\Administrator\Desktop\whaticket-community\backend\.wwebjs_auth\session-bd_2\Default\Local Storage\leveldb/000008.log 
+2022/07/18-18:42:27.205 fa0 Delete type=2 #5
+2022/07/18-18:42:27.205 fa0 Delete type=2 #7
+2022/07/18-18:42:27.205 fa0 Delete type=2 #9

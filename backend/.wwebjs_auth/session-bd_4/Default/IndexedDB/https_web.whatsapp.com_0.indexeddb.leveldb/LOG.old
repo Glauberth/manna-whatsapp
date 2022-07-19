@@ -1,0 +1,8 @@
+2022/07/18-16:14:23.085 394 Reusing MANIFEST C:\Users\Administrator\Desktop\whaticket-community\backend\.wwebjs_auth\session-bd_4\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/18-16:14:23.085 394 Recovering log #329
+2022/07/18-16:14:23.097 394 Reusing old log C:\Users\Administrator\Desktop\whaticket-community\backend\.wwebjs_auth\session-bd_4\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000329.log 
+2022/07/18-16:14:52.003 2e4 Compacting 1@1 + 2@2 files
+2022/07/18-16:14:52.549 2e4 Generated table #345@1: 102813 keys, 2255039 bytes
+2022/07/18-16:14:52.565 2e4 Generated table #346@1: 13606 keys, 300216 bytes
+2022/07/18-16:14:52.565 2e4 Compacted 1@1 + 2@2 files => 2555255 bytes
+2022/07/18-16:14:52.569 2e4 compacted to: files[ 0 0 13 0 0 0 0 ]

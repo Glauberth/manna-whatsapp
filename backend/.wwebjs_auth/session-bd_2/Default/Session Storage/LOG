@@ -1,0 +1,4 @@
+2022/07/18-18:42:28.304 fc Creating DB C:\Users\Administrator\Desktop\whaticket-community\backend\.wwebjs_auth\session-bd_2\Default\Session Storage since it was missing.
+2022/07/18-18:42:28.312 fc Reusing MANIFEST C:\Users\Administrator\Desktop\whaticket-community\backend\.wwebjs_auth\session-bd_2\Default\Session Storage/MANIFEST-000001
+2022/07/18-18:42:28.312 fc Recovering log #3
+2022/07/18-18:42:28.312 fc Reusing old log C:\Users\Administrator\Desktop\whaticket-community\backend\.wwebjs_auth\session-bd_2\Default\Session Storage/000003.log 
