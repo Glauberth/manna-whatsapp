@@ -1,7 +1,7 @@
 import "./bootstrap";
 import "reflect-metadata";
 import "express-async-errors";
-import express, { Request, Response, NextFunction } from "express";
+import express, { Request, Response, NextFunction, request } from "express";
 import cors from "cors";
 import cookieParser from "cookie-parser";
 import * as Sentry from "@sentry/node";
@@ -11,10 +11,18 @@ import uploadConfig from "./config/upload";
 import AppError from "./errors/AppError";
 import routes from "./routes";
 import { logger } from "./utils/logger";
+import { requestHandler } from "@sentry/node/dist/handlers";
+import { nextDay } from "date-fns";
 
 Sentry.init({ dsn: process.env.SENTRY_DSN });
 
 const app = express();
+
+app.use((Request, Response) => {
+  Request.header("Access-Control-Allow-Origin", "*");
+  Request.header("Access-Control-Allow-Methods", "GET, POST, PUT, DELETE");
+  app.use(cors());
+});
 
 app.use(
   cors({
