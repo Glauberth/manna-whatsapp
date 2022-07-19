@@ -1,3 +1,6 @@
-2022/07/18-16:14:21.424 1468 Reusing MANIFEST C:\Users\Administrator\Desktop\whaticket-community\backend\.wwebjs_auth\session-bd_4\Default\Local Storage\leveldb/MANIFEST-000001
-2022/07/18-16:14:21.424 1468 Recovering log #3
-2022/07/18-16:14:21.425 1468 Reusing old log C:\Users\Administrator\Desktop\whaticket-community\backend\.wwebjs_auth\session-bd_4\Default\Local Storage\leveldb/000003.log 
+2022/07/18-18:46:13.451 19b8 Reusing MANIFEST C:\Users\Administrator\Desktop\whaticket-community\backend\.wwebjs_auth\session-bd_4\Default\Local Storage\leveldb/MANIFEST-000001
+2022/07/18-18:46:13.452 19b8 Recovering log #3
+2022/07/18-18:46:13.452 19b8 Reusing old log C:\Users\Administrator\Desktop\whaticket-community\backend\.wwebjs_auth\session-bd_4\Default\Local Storage\leveldb/000003.log 
+2022/07/18-19:34:14.373 344 Level-0 table #5: started
+2022/07/18-19:34:14.419 344 Level-0 table #5: 20937 bytes OK
+2022/07/18-19:34:14.427 344 Delete type=0 #3
